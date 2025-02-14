@@ -1,3 +1,4 @@
 # GitDemo
-This is new git demo.
-Balaji Paskanti.
+This is new git demo.<br>
+Balaji<br>
+Paskanti<br>
